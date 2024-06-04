@@ -12,4 +12,4 @@
 - [운영중인 서버의 JDK 확인 방법](https://github.com/tomlittlekim/tomlittlekim/blob/main/Note/Server/jdkVersionOnService.md)
 
 ### ETC
-- [](https://github.com/tomlittlekim/tomlittlekim/blob/main/Note/ETC/JunitMultipleTest.md)
+- [JUnit Test 한 번에 여러 테스트 진행하기](https://github.com/tomlittlekim/tomlittlekim/blob/main/Note/ETC/JunitMultipleTest.md)
